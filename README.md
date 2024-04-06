@@ -1,6 +1,10 @@
 # Calculadora-Edad-JavaFX
 Se ha diseñado un programa que al ingrsar la fecha de nacimiento, calculará la edad
-Además se ha implementado JavaFX para el desarrollo de la interfaz
+Además se ha implementado JavaFX para el desarrollo de la interfaz.
+Las fuentes utilizadas fueron:
+https://www.youtube.com/watch?v=kdHIOYyW6x0
+https://www.youtube.com/watch?v=3Ht-JMQh2JI
+https://www.youtube.com/watch?v=n1G90HK4gLc&t=589s
 Aquí dejaré los requisitos:
 
 ### Tarea: Desarrollo de una Calculadora de Edad Utilizando JavaFX
